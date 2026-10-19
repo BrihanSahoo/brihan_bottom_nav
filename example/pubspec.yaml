@@ -1,0 +1,17 @@
+name: brihan_bottom_nav_example
+description: Example app for brihan_bottom_nav.
+publish_to: none
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  brihan_bottom_nav:
+    path: ..
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
