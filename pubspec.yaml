@@ -3,8 +3,8 @@ name: brihan_bottom_nav
 description: A customizable bottom navigation bar for Flutter applications.
 version: 0.0.1
 
-homepage: https://github.com/BrihanSahoo/custom_navbar
-repository: https://github.com/BrihanSahoo/custom_navbar
+homepage: https://github.com/BrihanSahoo/brihan_bottom_nav
+repository: https://github.com/BrihanSahoo/brihan_bottom_nav
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
